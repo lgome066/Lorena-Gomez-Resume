@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset='UTF-8'>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="shortcut icon" href="img/cute.ico">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title> Lorena Gomez - Linguistics </title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/resume.min.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+    <a class="navbar-brand js-scroll-trigger" href="#page-top">
+      <span class="d-block d-lg-none">Lorena Gomez</span>
+      <span class="d-none d-lg-block">
+        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/LorenaGomez.jpg" alt="Profile Picture">
+      </span>
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#about">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#experience">Experience</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#education">Education</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  </nav>
+
+  <div class="container-fluid p-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
+      <div class="w-100">
+        <h1 class="mb-3">Lorena Gomez
+        </h1>
+        <div class="subheading mb-5">Linguistics🗣️</div>
+        <p class="lead mb-4"> I am currently a first year student at the University of California Riverside. I went to a public school in East Los Angeles called Bell High School and I was in their STEM Magnet Program. I am also a first generation college student, trying to make her immigrant mother proud by obtaining a higher education. At a glance, I thought I wanted to become a teacher. My mom used to take care of a multitude of kids- from a few months to the age of five. I was fascinated by their growth and the way they obtain knowledge so naturally I wanted to teach children and see the way they could grow. 
+ <br><br>
+
+        I started to volunteer at my local elementary- the same one I attended. I helped children mainly with their reading comprehension. After a while, I began to realize that many of them were having difficulty reading whatever worksheet was in front of them and pronouncing the words. Coming from a Hispanic neighborhood, many kids grew up with Spanish surrounding them and the phonetic composition (the way the words are pronounced based on sound spelling) is not the same as it is in English. Plus, many children had lisps or a slight stutter and that is when I realized that I wanted to help people who had a difficulty of speech in order to make communicating and learning easier. 
+<br><br>
+
+        Now I am learning Linguistics in order to prepare myself for a Speech Language Pathologist (someone who specializes in speech therapy). I find language fascinating and with the languages I have taken so far at my university, I am both excited and terrified to enter in the upper division classes for my major. There are so many things that contribute to language whether it be physically or mentally. Some languages are “difficult” to learn because the tongue of a non-native speaker does not have the muscle memory in their tongue to manipulate in a way to make the language sound like a native speaker. Adding on, another fact is that people can tell when their baby is deaf whether or not it babbles constantly- babies try to copy the sound we make when we are speaking to them but they do not know which sounds go where- therefore if there is no babbling, they are not hearing anything to replicate. Sure, that is a bit gloomy but language acquisition is so interesting to me and the more linguistics courses I take, the more I learn and apply to the real world and see what goes on in a world full of various languages. I currently only know English and Spanish fluently but I hope to become multilingual! I am starting with German in the upcoming 2020 Fall Quarter with the goal to study abroad in Germany my junior year to fully immerse myself in the language and culture. I believe that the more languages you learn the more connections you can make with yourself in terms of identity because you learn new words to understand what is surrounding you externally and internally- I think that is beautiful. 
+
+        </p>
+        <div class="social-icons">
+          <a target="_blank" href="https://ucr.joinhandshake.com/users/18204715">
+            <i class="fab fa-handshake"></i>
+          </a>
+          <a target="_blank" href="https://github.com/lgome066">
+            <i class="fab fa-github"></i>
+          </a>
+          <a target="_blank" href="mailto:lgome066@gmail.com">
+            <i class="fa fa-envelope"></i>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
+      <div class="w-100">
+        <h2 class="mb-5">Experience</h2>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">Tutor</h3>
+            <div class="subheading mb-3"><a target="_blank" href="https://lomavista-lausd-ca.schoolloop.com/">Loma Vista Elementary</a></div>
+            <p>
+              • Helped with language arts and arithmetic to students from K-5th afterschool Monday-Thursday from 3-5pm
+            </p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">August 2016 - June 2019</span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">Student Assistant</h3>
+            <div class="subheading mb-3"><a target="_blank" href="https://www.bellhs.org/">Bell High School</a></div>
+            <p>
+              • Promoted school wide events alongside leadership and volunteered to help set up/clean up events.<br>
+              • Came up with multiple choreographies for certain practice days.<br>
+              • Figured the expenses to put up a fundraiser as well as getting permission from stores to fundraise at their store front.<br>
+            </p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">August 2015 - June 2018</span>
+          </div>
+        </div>
+
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">Chair of Programming</h3>
+            <div class="subheading mb-3"><a target="_blank" href="https://rhaucr.wordpress.com/about/residence-life-mission/">University of California Riverside: <br>
+            Residence Hall Association</a></div>
+            <p>
+            • Created multiple programs for the Lothian residence halls. <br>
+            • Contributed to setting up larger scale programs for the communities.<br>
+            
+
+          </p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">September 2019 - March 2020</span>
+          </div>
+        </div>
+      </div>
+
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="education">
+      <div class="w-100">
+        <h2 class="mb-5">Education</h2>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">Bell High School- STEM Magnet</h3>
+            <div class="subheading mb-3">High School Diploma </div>
+            <div>Honors</div>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">August 2015 - June 2019</span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">University of California Riverside</h3>
+            <div class="subheading mb-3">Bachlor of Arts in Linguistics</div>
+            <div>Undergraduate</div>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">June 2023</span>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-1 p-lg-5 d-flex align-items-center" id="portfolio">
+      <div class="w-100">
+        <h2 class="mb-5">Portfolio</h1>
+        <center>
+            <img src="img/ok.png" width="500px">
+            <img src="img/okay.png" width="500px">
+            <br>
+            <img src="img/okey.png" width="500px">
+            <img src="img/okeydokey.png" width="500px">
+            <br>
+        </center>
+      </div>
+    </section>
+
+    <hr class="m-0">
+    <center>&copy; <script type="text/javascript">
+  document.write(new Date().getFullYear());
+  </script> Lorena Gomez</center><br>
+
+
+  </div>
+
+  
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/resume.min.js"></script>
+
+</body>
+
+</html>
+
+
